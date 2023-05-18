@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pbo</string>
+    <string-array name="sample_provinsi">
+        <item>Ambon</item>
+        <item>Bogor</item>
+        <item>Cirebon</item>
+        <item>Depok</item>
+        <item>Makassar</item>
+        <item>Surabaya</item>
+        <item>Yogyakarta</item>
+    </string-array>
+</resources>
